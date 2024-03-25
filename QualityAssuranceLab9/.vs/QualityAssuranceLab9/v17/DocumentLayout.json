@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF27B-99B3-43CD-A583-32D0A50359FE}|..\\StoreApp\\StoreApp.Tests.csproj|c:\\users\\vanessarenzi\\source\\repos\\storeapp\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StoreApp.Tests||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|c:\\users\\vanessarenzi\\source\\repos\\qualityassurancelab9\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF27B-99B3-43CD-A583-32D0A50359FE}|..\\StoreApp\\StoreApp.Tests.csproj|c:\\users\\vanessarenzi\\source\\repos\\storeapp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QualityAssuranceLab9||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F852F39-6B9B-422C-B53C-B9C282AD4B81}|QualityAssuranceLab9.csproj|c:\\users\\vanessarenzi\\source\\repos\\qualityassurancelab9\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1CF27B-99B3-43CD-A583-32D0A50359FE}|..\\StoreApp\\StoreApp.Tests.csproj|c:\\users\\vanessarenzi\\source\\repos\\storeapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreApp.Tests",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\StoreApp\\StoreApp.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\StoreApp\\StoreApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\StoreApp\\StoreApp.Tests.csproj",
+              "RelativeToolTip": "..\\StoreApp\\StoreApp.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T21:09:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\StoreApp\\packages.config",
+              "RelativeDocumentMoniker": "..\\StoreApp\\packages.config",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\StoreApp\\packages.config",
+              "RelativeToolTip": "..\\StoreApp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-25T20:44:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSimpleProductController.cs",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\StoreApp\\TestSimpleProductController.cs",
+              "RelativeDocumentMoniker": "..\\StoreApp\\TestSimpleProductController.cs",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\StoreApp\\TestSimpleProductController.cs",
+              "RelativeToolTip": "..\\StoreApp\\TestSimpleProductController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:40:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QualityAssuranceLab9",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\QualityAssuranceLab9.csproj",
+              "RelativeDocumentMoniker": "QualityAssuranceLab9.csproj",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\QualityAssuranceLab9.csproj",
+              "RelativeToolTip": "QualityAssuranceLab9.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T20:28:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:19:51.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:17:32.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\vanessarenzi\\source\\repos\\QualityAssuranceLab9\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T20:28:46.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
